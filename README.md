@@ -1,2 +1,6 @@
 # Verilog-Codes
-Practice and implement different verilog codes to code quick and learn better
+# Combinational circuits
+## Half adder
+## Full adder
+## Half Subtractor
+## Full Subtractr
